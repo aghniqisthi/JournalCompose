@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Journal International</string>
+
+    <string name="back">back</string>
+    <string name="click_add_fav">Click to Add Favorite</string>
+    <string name="fav">Favorite</string>
+    <string name="click_del_fav">Click to Delete Favorite</string>
+    <string name="unfav">Unfavorite</string>
+    <string name="favorite_page">Favorite Page</string>
+    <string name="about_page">about_page</string>
+    <string name="cover">Journal Book Cover</string>
+    <string name="search">Search Journals</string>
+    <string name="count_fav"> %s Favorite Journals</string>
+    <string name="stu_name">Student Name</string>
+    <string name="name">Aghni Qisthina Al Rahma</string>
+    <string name="stu_email">Student Email</string>
+    <string name="email">aghniqisthi@gmail.com</string>
+    <string name="stu_bangkit">Student Bangkit Email</string>
+    <string name="bangkit_email">A305DKY4028@bangkit.academy</string>
+
+</resources>
